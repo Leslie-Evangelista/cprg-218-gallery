@@ -6,7 +6,7 @@
 - "bear.webp" by SAIT under CC-BY-NC License.
 https://github.com/Leslie-Evangelista/cprg-218-gallery/tree/main/images
 
--"bearded-dragon.webp" by SAIT under CC-BY-NC License. 
+- "bearded-dragon.webp" by SAIT under CC-BY-NC License. 
 https://github.com/Leslie-Evangelista/cprg-218-gallery/tree/main/images
 
 - "crane.webp" by SAIT under CC-BY-NC License. 
@@ -21,7 +21,7 @@ https://github.com/Leslie-Evangelista/cprg-218-gallery/tree/main/images
 - "lemur.webp" by SAIT under CC-BY-NC License.
 https://github.com/Leslie-Evangelista/cprg-218-gallery/tree/main/images
 
--"logo.png" by SAIT under CC-BY-NC License. 
+- "logo.png" by SAIT under CC-BY-NC License. 
 https://github.com/Leslie-Evangelista/cprg-218-gallery/tree/main/images
 
 - "logo.webp" by SAIT under CC-BY-NC License. 
@@ -33,7 +33,7 @@ https://github.com/Leslie-Evangelista/cprg-218-gallery/tree/main/images
 - "parrot.webp" by SAIT under CC-BY-NC License. 
 https://github.com/Leslie-Evangelista/cprg-218-gallery/tree/main/images
 
--"penguin.webp" by SAIT under CC-BY-NC License. 
+- "penguin.webp" by SAIT under CC-BY-NC License. 
 https://github.com/Leslie-Evangelista/cprg-218-gallery/tree/main/images
 
 - "red-panda.webp" by SAIT under CC-BY-NC License. 
